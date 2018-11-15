@@ -6,8 +6,8 @@ import (
 	"path"
 	"testing"
 
-	"github.com/go-openapi/runtime"
-	"github.com/go-openapi/runtime/internal/testing/petstore"
+	"github.com/baishancloud/go-openapi-runtime"
+	"github.com/baishancloud/go-openapi-runtime/internal/testing/petstore"
 	"github.com/stretchr/testify/assert"
 )
 

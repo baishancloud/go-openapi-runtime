@@ -20,7 +20,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/go-openapi/runtime"
+	"github.com/baishancloud/go-openapi-runtime"
 	"github.com/stretchr/testify/assert"
 )
 

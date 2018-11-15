@@ -31,9 +31,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-openapi/runtime"
-	"github.com/go-openapi/runtime/logger"
-	"github.com/go-openapi/runtime/middleware"
+	"github.com/baishancloud/go-openapi-runtime"
+	"github.com/baishancloud/go-openapi-runtime/logger"
+	"github.com/baishancloud/go-openapi-runtime/middleware"
 	"github.com/go-openapi/strfmt"
 )
 

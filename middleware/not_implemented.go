@@ -17,7 +17,7 @@ package middleware
 import (
 	"net/http"
 
-	"github.com/go-openapi/runtime"
+	"github.com/baishancloud/go-openapi-runtime"
 )
 
 type errorResp struct {
